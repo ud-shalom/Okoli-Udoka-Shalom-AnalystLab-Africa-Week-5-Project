@@ -16,6 +16,8 @@ Identified data quality issues, such as 'unknown' entries in the 'job' category 
 
 Data Transformation: Organized and cleaned the data in Excel to prepare it for PivotTable aggregation, ensuring accurate representation of customer demographics and campaign outcomes.
 
+## Dashboard Preview
+![Campaign Performance Dashboard](EXCEL%20ANALYSTLAB%20AFRICA%20DASHBOARD%201.png)
 ## Key Insights
 ### 1. Campaign Performance
 High Conversion: Achieved a 47.38% subscription rate (5,289 subscribers).
