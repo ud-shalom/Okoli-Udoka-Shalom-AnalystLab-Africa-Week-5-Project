@@ -16,7 +16,7 @@ Identified data quality issues, such as 'unknown' entries in the 'job' category 
 
 Data Transformation: Organized and cleaned the data in Excel to prepare it for PivotTable aggregation, ensuring accurate representation of customer demographics and campaign outcomes.
 
-## Dashboard Preview
+## Dashboard 2 Preview
 ![Campaign Performance Dashboard](EXCEL%20ANALYSTLAB%20AFRICA%20DASHBOARD%201.png)
 ## Key Insights
 ### 1. Campaign Performance
@@ -28,6 +28,8 @@ Communication Effectiveness: Telephone contact is the most effective channel, yi
 
 Data Anomaly: Identified a tracking concentration in the "Campaign Days Analysis," suggesting a potential system logging error.
 
+## Dashboard 1 Preview
+![Campaign Performance Dashboard](EXCEL%20ANALYSTLAB%20AFRICA%20DASHBOARD%201.png)
 ### 2. Customer Financial Analysis
 Demographic Skew: The customer base is heavily concentrated in the 60+ age group.
 
